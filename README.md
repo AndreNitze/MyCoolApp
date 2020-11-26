@@ -16,3 +16,4 @@ How to install the application.
 * Tillman Städtner <staedtne@th-brandenburg.de>
 * Harald Nitz <nitzh@th-brandenburg.de>
 * Mirko Reefschläger <reefschl@th-brandenburg.de>
+* Valentin Riedel <riedel@th-brandenburg.de>
