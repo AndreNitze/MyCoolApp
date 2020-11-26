@@ -9,5 +9,5 @@ ANdré is the king.
 ## Install
 How to install the application.
 
-##contributers 
+## Contributors 
 Omer mutlu mutlu@th-brandenburg.de
