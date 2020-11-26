@@ -15,3 +15,4 @@ How to install the application.
 * Torben Hammes <[hey@torben.wtf](mailto:hey@torben.wtf)>
 * Tillman Städtner <staedtne@th-brandenburg.de>
 * Harald Nitz <nitzh@th-brandenburg.de>
+* Mirko Reefschläger <reefschl@th-brandenburg.de>
