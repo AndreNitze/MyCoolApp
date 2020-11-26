@@ -8,3 +8,6 @@ ANdré is the king.
 
 ## Install
 How to install the application.
+
+## Contributors
+* André Nitze <andre.nitze@th-brandenburg.de>
