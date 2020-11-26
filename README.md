@@ -10,4 +10,8 @@ ANdré is the king.
 How to install the application.
 
 ## Contributors
+
 * André Nitze <andre.nitze@th-brandenburg.de>
+* Torben Hammes <[hey@torben.wtf](mailto:hey@torben.wtf)>
+* Tillman Städtner <staedtne@th-brandenburg.de>
+* Gutmann Daniel <gutmann@th-brandenburg.de>
