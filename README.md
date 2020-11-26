@@ -12,5 +12,4 @@ How to install the application.
 ## Contributors
 * André Nitze <andre.nitze@th-brandenburg.de>
 
-## Contributors
 * Ruxue Sha<sha@th-brandenburg.de>
