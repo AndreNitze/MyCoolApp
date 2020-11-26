@@ -13,3 +13,4 @@ How to install the application.
 
 * André Nitze <andre.nitze@th-brandenburg.de>
 * Torben Hammes <[hey@torben.wtf](mailto:hey@torben.wtf)>
+* Laura Wellhöfer <wellhoef@th-brandenburg.de>
